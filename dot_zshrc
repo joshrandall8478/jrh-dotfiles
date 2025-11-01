@@ -109,8 +109,8 @@ source $ZSH/oh-my-zsh.sh
 source /etc/restic-env  
 
 # Smallfetch
-fastfetch -c ~/smallfetch.jsonc                                                                                                                                                                                 
-alias smallfetch="fastfetch -c ~/smallfetch.jsonc"
+fastfetch -c ~/.smallfetch.jsonc                                                                                                                                                                                 
+alias smallfetch="fastfetch -c ~/.smallfetch.jsonc"
 
 # eza, zoxide
 alias ls='eza --icons' # list                                                                                                                                                                                   
