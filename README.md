@@ -8,3 +8,9 @@ Dotfiles used on jrh servers
 - fastfetch
 - git
 - chezmoi
+
+### Server Dependencies
+- rclone
+- restic
+- cloudflared
+- docker
